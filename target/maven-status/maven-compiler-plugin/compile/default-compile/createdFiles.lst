@@ -1,0 +1,8 @@
+com\bookstore\controller\WebController.class
+com\bookstore\entity\Book.class
+com\bookstore\service\BookService.class
+com\bookstore\Application.class
+com\bookstore\controller\BookController.class
+com\bookstore\service\IBookStoreService.class
+com\bookstore\repository\BookRepository.class
+com\bookstore\config\DataInitializer.class
