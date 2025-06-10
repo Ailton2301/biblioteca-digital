@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📚 Biblioteca Digital: Sistema Integrado de Gestão de Livros
 📝 Descrição
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento para uma biblioteca municipal.
@@ -61,7 +62,7 @@ biblioteca-digital/
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/biblioteca-digital.git
+git clone https://github.com/Ailton2301/biblioteca-digital
 cd biblioteca-digital
 2. Configure o banco de dados MySQL:
 Crie um banco de dados chamado biblioteca
@@ -90,3 +91,6 @@ A interface permite interação com o back-end por meio da API REST
 Ailton
 Estudante de Análise e Desenvolvimento de Sistemas
 
+=======
+# biblioteca-digital
+>>>>>>> f2eba4b0fa8f533c840788e23f1fb48fdc19cf6e
